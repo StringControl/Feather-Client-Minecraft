@@ -13,4 +13,4 @@ Feather Client. Free Minecraft Java Edition launcher with FPS optimizations, bui
 
 
 TAGS
-feather, feather-client, minecraft-launcher, minecraft-modpack, fps-boost, minecraft-java                           
+feather, feather-client, minecraft-launcher, minecraft-modpack, fps-boost, minecraft-java                            
